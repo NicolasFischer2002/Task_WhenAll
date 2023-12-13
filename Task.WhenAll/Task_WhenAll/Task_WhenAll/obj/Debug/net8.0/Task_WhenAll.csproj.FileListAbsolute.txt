@@ -1,0 +1,14 @@
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\bin\Debug\net8.0\Task_WhenAll.exe
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\bin\Debug\net8.0\Task_WhenAll.deps.json
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\bin\Debug\net8.0\Task_WhenAll.runtimeconfig.json
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\bin\Debug\net8.0\Task_WhenAll.dll
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\bin\Debug\net8.0\Task_WhenAll.pdb
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.AssemblyInfo.cs
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.dll
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\refint\Task_WhenAll.dll
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.pdb
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\Task_WhenAll.genruntimeconfig.cache
+C:\Users\Micro\Desktop\Task.WhenAll\Task_WhenAll\Task_WhenAll\obj\Debug\net8.0\ref\Task_WhenAll.dll
