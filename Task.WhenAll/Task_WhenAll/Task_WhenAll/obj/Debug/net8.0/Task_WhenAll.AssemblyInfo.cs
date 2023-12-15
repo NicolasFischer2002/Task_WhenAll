@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_WhenAll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8479bcddf69bc0a89a8981cfba65cef7fa7a07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c5d30578471252df3d8e5590523f654c9d76fc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_WhenAll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_WhenAll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
